@@ -1,5 +1,7 @@
-# learningPlatform
-Desktop learning platform
+# Desktop learning platform
+ 
+# Sign up
+
 ![bj](https://user-images.githubusercontent.com/22852604/42508578-e97b8d18-8440-11e8-9f83-be0e9bcf8c0b.png)
 ![dffdfg](https://user-images.githubusercontent.com/22852604/42508579-e9a4aa04-8440-11e8-9817-4198878a8075.png)
 ![f](https://user-images.githubusercontent.com/22852604/42508580-e9c95a7a-8440-11e8-9124-53a93573f562.png)
